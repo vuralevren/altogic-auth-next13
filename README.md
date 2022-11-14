@@ -31,7 +31,7 @@ To complete this tutorial, ensure you have installed the following tools and uti
 
 - [VsCode](https://code.visualstudio.com/download)
 - [NodeJS](https://nodejs.org/en/download/)
-- [Next.js 12](https://nextjs.org/docs/getting-started)
+- [Next.js 13](https://nextjs.org/docs/getting-started)
 - You also need an Altogic Account. If you do not have one, you can create an account by [signin up for Altogic](https://designer.altogic.com/).
 
 ## Creating an Altogic App

@@ -611,7 +611,9 @@ export default async function handler(req, res) {
 ```
 
 ### Replacing `pages/api/signUp.js` with the following code:
-We have created an endpoint for users to register.`signUpWithEmail` function can accept optional  third parameter data to save the user's profile. We will save the user's name to the database in this example.
+We have created an endpoint for users to register.
+
+> `signUpWithEmail` function can accept optional  third parameter data to save the user's profile. We will save the user's name to the database in this example.
 
 ```js
 // /pages/api/auth/sign-up.js
